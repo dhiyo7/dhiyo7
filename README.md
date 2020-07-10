@@ -4,10 +4,8 @@ Hi there, I'm a College student and Founder [PLUGIN | Politeknik Harapan Bersama
 
 #### You can also find me
 
-<a href="https://twitter.com/dhiyo07"><img align="left" width="50" height="50" src="./assets/twit.png"></a>
-<a href="https://www.facebook.com/dhiyo07"><img align="left" width="50" height="50" src="./assets/fb.png"></a>
-<a href="https://t.me/dhiyo007"><img align="left" width="50" height="50" src="./assets/tele.png"></a>
-<a href="https://www.instagram.com/dhiyo7"><img align="left" width="50" height="50" src="./assets/ig.png"></a>
-<a href="https://www.linkedin.com/in/dhiyo7"><img align="left" width="50" height="50" src="./assets/linkedin.png"></a>
+<a href="https://twitter.com/dhiyo07"><img align="left" width="50" height="50" src="https://github.com/dhiyo7/dhiyo7/blob/master/assets/twit.png?raw=true"></a>
+<a href="https://www.facebook.com/dhiyo07"><img align="left" width="50" height="50" src="https://github.com/dhiyo7/dhiyo7/blob/master/assets/fb.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/dhiyo7"><img align="left" width="50" height="50" src="https://github.com/dhiyo7/dhiyo7/blob/master/assets/linkedin.png?raw=true"></a>
 
 

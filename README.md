@@ -1,6 +1,6 @@
 # Dhiya Reksa Kusumojati Brameswanto - @dhiyo7
 
-Hi there, I'm a Dhiyo Founder of [PLUGIN | Politeknik Harapan Bersama Linux User Group Indonesia](https://github.com/plugintegal) and it was learning Android and React Native and sometimes i work as a frelancer
+Hi there, I'm a Dhiyo Founder of [PLUGIN | Politeknik Harapan Bersama Linux User Group Indonesia](https://plug-in.web.id/) and it was learning Android and React Native and sometimes i work as a frelancer
 
 #### You can also find me
 
